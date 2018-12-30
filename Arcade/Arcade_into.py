@@ -38,3 +38,9 @@ def adjacentElementsProduct(inputArray):
 
 adjacentElementsProduct([3, 6, -2, -5, 7, 3])
 
+# shapeArea 
+
+def shapeArea(n):
+    return (n-1)**2+n**2
+
+print(shapeArea(5)) # print(shapeArea('print any number you wanted'))
